@@ -1,1 +1,1004 @@
-[{"code":"T-DD400","supplier":"BB06602","colors":[{"id":"BK","name":"Negro","src":"assets/BB06602-BK.jpg"},{"id":"BU","name":"Azul","src":"assets/BB06602-BU.jpg"},{"id":"GO","name":"Dorado","src":"assets/BB06602-GO.jpg"},{"id":"GY","name":"Gris","src":"assets/BB06602-GY.jpg"},{"id":"SV","name":"Plateado","src":"assets/BB06602-SV.jpg"}],"ambient":"assets/T-DD400-escala.jpg"},{"code":"T-DD401","supplier":"BB06701","colors":[{"id":"BK","name":"Negro","src":"assets/BB06701-BK.jpg"},{"id":"BU","name":"Azul","src":"assets/BB06701-BU.jpg"},{"id":"OR","name":"Naranja","src":"assets/BB06701-OR.jpg"},{"id":"WH","name":"Blanco","src":"assets/BB06701-WH.jpg"}],"ambient":"assets/T-DD401-ambiente.jpg"},{"code":"T-DD402","supplier":"BB06808","colors":[{"id":"BK","name":"Negro","src":"assets/BB06808-BK.jpg"},{"id":"BU","name":"Azul","src":"assets/BB06808-BU.jpg"},{"id":"GY","name":"Gris","src":"assets/BB06808-GY.jpg"},{"id":"SV","name":"Plateado","src":"assets/BB06808-SV.jpg"},{"id":"WH","name":"Blanco","src":"assets/BB06808-WH.jpg"}],"ambient":"assets/T-DD402-ambiente.jpg"},{"code":"T-DD403","supplier":"BB07602","colors":[{"id":"BK","name":"Negro","src":"assets/BB07602-BK.jpg"},{"id":"BU","name":"Azul","src":"assets/BB07602-BU.jpg"},{"id":"GY","name":"Gris","src":"assets/BB07602-GY.jpg"},{"id":"SV","name":"Plateado","src":"assets/BB07602-SV.jpg"},{"id":"WH","name":"Blanco","src":"assets/BB07602-WH.jpg"}],"ambient":"assets/T-DD403-ambiente.jpg"},{"code":"T-DD404","supplier":"BB08003","colors":[{"id":"GN","name":"Verde","src":"assets/BB08003-GN.jpg"},{"id":"GY","name":"Gris","src":"assets/BB08003-GY.jpg"},{"id":"SV","name":"Plateado","src":"assets/BB08003-SV.jpg"}],"ambient":"assets/T-DD404-ambiente.jpg"},{"supplier":"WC25001","code":"T-RP200","type":"Reloj de pared","colors":[{"id":"BK","name":"Negro","src":"assets/WC25001-BK.jpg"},{"id":"CO","name":"Marrón","src":"assets/WC25001-CO.jpg"},{"id":"GO","name":"Dorado","src":"assets/WC25001-GO.jpg"},{"id":"SV","name":"Plateado","src":"assets/WC25001-SV.jpg"},{"id":"W-1","name":"Madera clara","src":"assets/WC25001-W-1.jpg"},{"id":"WH","name":"Blanco","src":"assets/WC25001-WH.jpg"}],"ambient":"assets/T-RP200-alto.jpg"},{"supplier":"WC25501","code":"T-RP201","type":"Reloj de pared","colors":[{"id":"BK","name":"Negro","src":"assets/WC25501-BK.jpg"},{"id":"CO","name":"Marrón","src":"assets/WC25501-CO.jpg"},{"id":"SV","name":"Plateado","src":"assets/WC25501-SV.jpg"},{"id":"W-1","name":"Madera clara","src":"assets/WC25501-W-1.jpg"},{"id":"W-2","name":"Madera oscura","src":"assets/WC25501-W-2.jpg"},{"id":"WH","name":"Blanco","src":"assets/WC25501-WH.jpg"}],"ambient":"assets/T-RP201-alto.jpg"}]
+[
+  {
+    "code": "T-DD400",
+    "supplier": "BB06602",
+    "type": "Despertador",
+    "dimensions": "62 × 30 × 59 mm",
+    "features": [
+      "Luz",
+      "Alarma creciente",
+      "Repetición de alarma",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-beep.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/BB06602-BK.jpg"
+      },
+      {
+        "id": "BU",
+        "name": "Azul",
+        "src": "assets/BB06602-BU.jpg"
+      },
+      {
+        "id": "GO",
+        "name": "Dorado",
+        "src": "assets/BB06602-GO.jpg"
+      },
+      {
+        "id": "GY",
+        "name": "Gris",
+        "src": "assets/BB06602-GY.jpg"
+      },
+      {
+        "id": "SV",
+        "name": "Plateado",
+        "src": "assets/BB06602-SV.jpg"
+      }
+    ],
+    "ambient": "assets/T-DD400-final.jpg"
+  },
+  {
+    "code": "T-DD401",
+    "supplier": "BB06701",
+    "type": "Despertador",
+    "dimensions": "67 × 39 × 67 mm",
+    "features": [
+      "Luz",
+      "Alarma creciente",
+      "Repetición de alarma",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-beep.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/BB06701-BK.jpg"
+      },
+      {
+        "id": "BU",
+        "name": "Azul",
+        "src": "assets/BB06701-BU.jpg"
+      },
+      {
+        "id": "OR",
+        "name": "Naranja",
+        "src": "assets/BB06701-OR.jpg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/BB06701-WH.jpg"
+      }
+    ],
+    "ambient": "assets/T-DD401-final.jpg"
+  },
+  {
+    "code": "T-DD402",
+    "supplier": "BB06808",
+    "type": "Despertador",
+    "dimensions": "68 × 40 × 70 mm",
+    "features": [
+      "Luz",
+      "Alarma creciente",
+      "Repetición de alarma",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-beep.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/BB06808-BK.jpg"
+      },
+      {
+        "id": "BU",
+        "name": "Azul",
+        "src": "assets/BB06808-BU.jpg"
+      },
+      {
+        "id": "GY",
+        "name": "Gris",
+        "src": "assets/BB06808-GY.jpg"
+      },
+      {
+        "id": "SV",
+        "name": "Plateado",
+        "src": "assets/BB06808-SV.jpg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/BB06808-WH.jpg"
+      }
+    ],
+    "ambient": "assets/T-DD402-final.jpg"
+  },
+  {
+    "code": "T-DD403",
+    "supplier": "BB07602",
+    "type": "Despertador",
+    "dimensions": "76 × 41 × 73 mm",
+    "features": [
+      "Luz",
+      "Alarma creciente",
+      "Repetición de alarma",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-beep.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/BB07602-BK.jpg"
+      },
+      {
+        "id": "BU",
+        "name": "Azul",
+        "src": "assets/BB07602-BU.jpg"
+      },
+      {
+        "id": "GY",
+        "name": "Gris",
+        "src": "assets/BB07602-GY.jpg"
+      },
+      {
+        "id": "SV",
+        "name": "Plateado",
+        "src": "assets/BB07602-SV.jpg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/BB07602-WH.jpg"
+      }
+    ],
+    "ambient": "assets/T-DD403-final.jpg"
+  },
+  {
+    "code": "T-DD404",
+    "supplier": "BB08003",
+    "type": "Despertador",
+    "dimensions": "74 × 47 × 80 mm",
+    "features": [
+      "Luz",
+      "Alarma creciente",
+      "Repetición de alarma",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-beep.svg",
+    "colors": [
+      {
+        "id": "GN",
+        "name": "Verde",
+        "src": "assets/BB08003-GN.jpg"
+      },
+      {
+        "id": "GY",
+        "name": "Gris",
+        "src": "assets/BB08003-GY.jpg"
+      },
+      {
+        "id": "SV",
+        "name": "Plateado",
+        "src": "assets/BB08003-SV.jpg"
+      }
+    ],
+    "ambient": "assets/T-DD404-final.jpg"
+  },
+  {
+    "code": "T-DD405",
+    "supplier": "BB08005",
+    "type": "Despertador",
+    "dimensions": "80 × 43 × 82 mm",
+    "features": [
+      "Luz",
+      "Alarma creciente",
+      "Repetición de alarma",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-beep.svg",
+    "colors": [
+      {
+        "id": "PK",
+        "name": "Rosa",
+        "src": "assets/BB08005-PK.jpg"
+      },
+      {
+        "id": "SV",
+        "name": "Plateado",
+        "src": "assets/BB08005-SV.jpg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/BB08005-WH.jpg"
+      }
+    ],
+    "ambient": "assets/T-DD405-final.jpg"
+  },
+  {
+    "code": "T-DD406",
+    "supplier": "BB08302",
+    "type": "Despertador",
+    "dimensions": "83 × 52 × 82 mm",
+    "features": [
+      "Iluminación LED",
+      "Alarma creciente",
+      "Repetición de alarma",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-led.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/BB08302-BK.jpg"
+      },
+      {
+        "id": "SV",
+        "name": "Plateado",
+        "src": "assets/BB08302-SV.jpg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/BB08302-WH.jpg"
+      }
+    ],
+    "ambient": "assets/T-DD406-final.jpg"
+  },
+  {
+    "code": "T-DD407",
+    "supplier": "BB08501",
+    "type": "Despertador",
+    "dimensions": "85 × 41 × 85 mm",
+    "features": [
+      "Luz",
+      "Alarma creciente",
+      "Repetición de alarma",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-beep.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/BB08501-BK.jpg"
+      },
+      {
+        "id": "BU",
+        "name": "Azul",
+        "src": "assets/BB08501-BU.jpg"
+      },
+      {
+        "id": "GY",
+        "name": "Gris",
+        "src": "assets/BB08501-GY.jpg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/BB08501-WH.jpg"
+      }
+    ],
+    "ambient": "assets/T-DD407-final.jpg"
+  },
+  {
+    "code": "T-DD408",
+    "supplier": "BB08506",
+    "type": "Despertador",
+    "dimensions": "88 × 42 × 80 mm",
+    "features": [
+      "Luz",
+      "Alarma creciente",
+      "Repetición de alarma",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-beep.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/BB08506-BK.jpg"
+      },
+      {
+        "id": "BU",
+        "name": "Azul",
+        "src": "assets/BB08506-BU.jpg"
+      },
+      {
+        "id": "GY",
+        "name": "Gris",
+        "src": "assets/BB08506-GY.jpg"
+      },
+      {
+        "id": "SV",
+        "name": "Plateado",
+        "src": "assets/BB08506-SV.jpg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/BB08506-WH.jpg"
+      }
+    ],
+    "ambient": "assets/T-DD408-final.jpg"
+  },
+  {
+    "code": "T-DD409",
+    "supplier": "BB08514",
+    "type": "Despertador",
+    "dimensions": "82 × 46 × 85 mm",
+    "features": [
+      "Luz",
+      "Alarma creciente",
+      "Repetición de alarma",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-beep.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/BB08514-BK.jpg"
+      },
+      {
+        "id": "BU",
+        "name": "Azul",
+        "src": "assets/BB08514-BU.jpg"
+      },
+      {
+        "id": "GY",
+        "name": "Gris",
+        "src": "assets/BB08514-GY.jpg"
+      },
+      {
+        "id": "SV",
+        "name": "Plateado",
+        "src": "assets/BB08514-SV.jpg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/BB08514-WH.jpg"
+      }
+    ],
+    "ambient": "assets/T-DD409-final.jpg"
+  },
+  {
+    "code": "T-DD410",
+    "supplier": "BB08901",
+    "type": "Despertador",
+    "dimensions": "88 × 39 × 91 mm",
+    "features": [
+      "Luz",
+      "Alarma creciente",
+      "Repetición de alarma",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-beep.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/BB08901-BK.jpg"
+      },
+      {
+        "id": "GO",
+        "name": "Dorado",
+        "src": "assets/BB08901-GO.jpg"
+      },
+      {
+        "id": "SV",
+        "name": "Plateado",
+        "src": "assets/BB08901-SV.jpg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/BB08901-WH.jpg"
+      }
+    ],
+    "ambient": "assets/T-DD410-final.jpg"
+  },
+  {
+    "code": "T-DD411",
+    "supplier": "BB09101",
+    "type": "Despertador",
+    "dimensions": "98 × 51 × 82 mm",
+    "features": [
+      "Iluminación LED",
+      "Alarma creciente",
+      "Repetición de alarma",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-led.svg",
+    "colors": [
+      {
+        "id": "BU",
+        "name": "Azul",
+        "src": "assets/BB09101-BU.jpg"
+      },
+      {
+        "id": "SV",
+        "name": "Plateado",
+        "src": "assets/BB09101-SV.jpg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/BB09101-WH.jpg"
+      }
+    ],
+    "ambient": "assets/T-DD411-final.jpg"
+  },
+  {
+    "code": "T-DD412",
+    "supplier": "BB09604",
+    "type": "Despertador",
+    "dimensions": "100 × 63 × 94 mm",
+    "features": [
+      "Iluminación LED",
+      "Alarma creciente",
+      "Repetición de alarma",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-led.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/BB09604-BK.jpg"
+      },
+      {
+        "id": "BU",
+        "name": "Azul",
+        "src": "assets/BB09604-BU.jpg"
+      },
+      {
+        "id": "DGN",
+        "name": "Verde oscuro",
+        "src": "assets/BB09604-DGN.jpg"
+      },
+      {
+        "id": "SV",
+        "name": "Plateado",
+        "src": "assets/BB09604-SV.jpg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/BB09604-WH.jpg"
+      }
+    ],
+    "ambient": "assets/T-DD412-final.jpg"
+  },
+  {
+    "code": "T-DD413",
+    "supplier": "BL11501",
+    "type": "Despertador",
+    "dimensions": "113 × 65 × 103 mm",
+    "features": [
+      "Luz",
+      "Alarma de campana",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-bell.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/BL11501-BK.svg"
+      },
+      {
+        "id": "CO",
+        "name": "Marrón",
+        "src": "assets/BL11501-CO.svg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/BL11501-WH.svg"
+      }
+    ],
+    "ambient": "assets/T-DD413-final.jpg"
+  },
+  {
+    "code": "T-DD414",
+    "supplier": "BM10506",
+    "type": "Despertador",
+    "dimensions": "108 × 52 × 110 mm",
+    "features": [
+      "Luz",
+      "Alarma creciente",
+      "Repetición de alarma",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-beep.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/BM10506-BK.svg"
+      },
+      {
+        "id": "SV",
+        "name": "Plateado",
+        "src": "assets/BM10506-SV.svg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/BM10506-WH.svg"
+      }
+    ],
+    "ambient": "assets/T-DD414-final.jpg"
+  },
+  {
+    "code": "T-DD415",
+    "supplier": "BM10604",
+    "type": "Despertador",
+    "dimensions": "100 × 70 × 106 mm",
+    "features": [
+      "Luz",
+      "Alarma creciente",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-crescendo.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/BM10604-BK.svg"
+      },
+      {
+        "id": "BU",
+        "name": "Azul",
+        "src": "assets/BM10604-BU.svg"
+      },
+      {
+        "id": "GN",
+        "name": "Verde",
+        "src": "assets/BM10604-GN.svg"
+      },
+      {
+        "id": "GY",
+        "name": "Gris",
+        "src": "assets/BM10604-GY.svg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/BM10604-WH.svg"
+      }
+    ],
+    "ambient": "assets/T-DD415-final.jpg"
+  },
+  {
+    "code": "T-DD416",
+    "supplier": "BM11003",
+    "type": "Despertador",
+    "dimensions": "110 × 60 × 96 mm",
+    "features": [
+      "Luz",
+      "Alarma de campana",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-bell.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/BM11003-BK.svg"
+      },
+      {
+        "id": "BU",
+        "name": "Azul",
+        "src": "assets/BM11003-BU.svg"
+      },
+      {
+        "id": "SV",
+        "name": "Plateado",
+        "src": "assets/BM11003-SV.svg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/BM11003-WH.svg"
+      }
+    ],
+    "ambient": "assets/T-DD416-final.jpg"
+  },
+  {
+    "code": "T-DD417",
+    "supplier": "BM11802",
+    "type": "Despertador",
+    "dimensions": "119 × 70 × 121 mm",
+    "features": [
+      "Luz",
+      "Alarma de campana",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-bell.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/BM11802-BK.svg"
+      },
+      {
+        "id": "SV",
+        "name": "Plateado",
+        "src": "assets/BM11802-SV.svg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/BM11802-WH.svg"
+      }
+    ],
+    "ambient": "assets/T-DD417-final.jpg"
+  },
+  {
+    "code": "T-DD418",
+    "supplier": "BM12401",
+    "type": "Despertador",
+    "dimensions": "140 × 57 × 138 mm",
+    "features": [
+      "Luz",
+      "Alarma creciente",
+      "Repetición de alarma",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-beep.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/BM12401-BK.svg"
+      },
+      {
+        "id": "SV",
+        "name": "Plateado",
+        "src": "assets/BM12401-SV.svg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/BM12401-WH.svg"
+      }
+    ],
+    "ambient": "assets/T-DD418-final.jpg"
+  },
+  {
+    "code": "T-DD419",
+    "supplier": "BM13701",
+    "type": "Despertador",
+    "dimensions": "137 × 66 × 123 mm",
+    "features": [
+      "Luz",
+      "Alarma creciente",
+      "Repetición de alarma",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-beep.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/BM13701-BK.svg"
+      },
+      {
+        "id": "SV",
+        "name": "Plateado",
+        "src": "assets/BM13701-SV.svg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/BM13701-WH.svg"
+      }
+    ],
+    "ambient": "assets/T-DD419-final.jpg"
+  },
+  {
+    "code": "T-DD420",
+    "supplier": "LED13701",
+    "type": "Despertador",
+    "dimensions": "137 × 77 × 44 mm",
+    "features": [
+      "Hora 12/24 h",
+      "Calendario",
+      "Día de la semana",
+      "Temperatura °C/°F",
+      "Alarma: 9 melodías",
+      "Repetición: 1–60 min",
+      "Iluminación blanca"
+    ],
+    "icons": null,
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/L13701-BK.svg"
+      },
+      {
+        "id": "BU",
+        "name": "Azul",
+        "src": "assets/L13701-BU.svg"
+      },
+      {
+        "id": "DGN",
+        "name": "Verde oscuro",
+        "src": "assets/L13701-DGN.svg"
+      },
+      {
+        "id": "GN",
+        "name": "Verde",
+        "src": "assets/L13701-GN.svg"
+      },
+      {
+        "id": "PK-2",
+        "name": "Rosa 2",
+        "src": "assets/L13701-PK-2.svg"
+      },
+      {
+        "id": "PK",
+        "name": "Rosa",
+        "src": "assets/L13701-PK.svg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/L13701-WH.svg"
+      }
+    ],
+    "ambient": "assets/T-DD420-final.jpg"
+  },
+  {
+    "code": "T-DD421",
+    "supplier": "TB11503",
+    "type": "Despertador",
+    "dimensions": "116 × 58 × 160 mm",
+    "features": [
+      "Luz",
+      "Alarma de campana",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-bell.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/TB11503-BK.svg"
+      },
+      {
+        "id": "GN",
+        "name": "Verde",
+        "src": "assets/TB11503-GN.svg"
+      },
+      {
+        "id": "PK",
+        "name": "Rosa",
+        "src": "assets/TB11503-PK.svg"
+      },
+      {
+        "id": "SV",
+        "name": "Plateado",
+        "src": "assets/TB11503-SV.svg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/TB11503-WH.svg"
+      }
+    ],
+    "ambient": "assets/T-DD421-final.jpg"
+  },
+  {
+    "code": "T-DD422",
+    "supplier": "TBD11502",
+    "type": "Despertador",
+    "dimensions": "112 × 58 × 160 mm",
+    "features": [
+      "Luz",
+      "Alarma de campana",
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-bell.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/TBD11502-BK.svg"
+      },
+      {
+        "id": "BU",
+        "name": "Azul",
+        "src": "assets/TBD11502-BU.svg"
+      },
+      {
+        "id": "GN",
+        "name": "Verde",
+        "src": "assets/TBD11502-GN.svg"
+      },
+      {
+        "id": "RD",
+        "name": "Rojo",
+        "src": "assets/TBD11502-RD.svg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/TBD11502-WH.svg"
+      }
+    ],
+    "ambient": "assets/T-DD422-final.jpg"
+  },
+  {
+    "code": "T-RP200",
+    "supplier": "WC25001",
+    "type": "Reloj de pared",
+    "dimensions": "260 × 43 × 260 mm",
+    "features": [
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-sweep.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/WC25001-BK.jpg"
+      },
+      {
+        "id": "CO",
+        "name": "Marrón",
+        "src": "assets/WC25001-CO.jpg"
+      },
+      {
+        "id": "GO",
+        "name": "Dorado",
+        "src": "assets/WC25001-GO.jpg"
+      },
+      {
+        "id": "SV",
+        "name": "Plateado",
+        "src": "assets/WC25001-SV.jpg"
+      },
+      {
+        "id": "W-1",
+        "name": "Madera clara",
+        "src": "assets/WC25001-W-1.jpg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/WC25001-WH.jpg"
+      }
+    ],
+    "ambient": "assets/T-RP200-final.jpg"
+  },
+  {
+    "code": "T-RP201",
+    "supplier": "WC25501",
+    "type": "Reloj de pared",
+    "dimensions": "255 × 40 × 255 mm",
+    "features": [
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-sweep.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/WC25501-BK.jpg"
+      },
+      {
+        "id": "CO",
+        "name": "Marrón",
+        "src": "assets/WC25501-CO.jpg"
+      },
+      {
+        "id": "SV",
+        "name": "Plateado",
+        "src": "assets/WC25501-SV.jpg"
+      },
+      {
+        "id": "W-1",
+        "name": "Madera clara",
+        "src": "assets/WC25501-W-1.jpg"
+      },
+      {
+        "id": "W-2",
+        "name": "Madera oscura",
+        "src": "assets/WC25501-W-2.jpg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/WC25501-WH.jpg"
+      }
+    ],
+    "ambient": "assets/T-RP201-final.jpg"
+  },
+  {
+    "code": "T-RP202",
+    "supplier": "WC30502",
+    "type": "Reloj de pared",
+    "dimensions": "300 × 55 × 300 mm",
+    "features": [
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-sweep.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/WC30502-BK.svg"
+      },
+      {
+        "id": "GN",
+        "name": "Verde",
+        "src": "assets/WC30502-GN.svg"
+      },
+      {
+        "id": "GY",
+        "name": "Gris",
+        "src": "assets/WC30502-GY.svg"
+      },
+      {
+        "id": "W-1",
+        "name": "Madera clara",
+        "src": "assets/WC30502-W-1.svg"
+      },
+      {
+        "id": "W-2",
+        "name": "Madera oscura",
+        "src": "assets/WC30502-W-2.svg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/WC30502-WH.svg"
+      }
+    ],
+    "ambient": "assets/T-RP202-final.jpg"
+  },
+  {
+    "code": "T-RP203",
+    "supplier": "WC31701",
+    "type": "Reloj de pared",
+    "dimensions": "334 × 50 × 334 mm",
+    "features": [
+      "Segundero continuo"
+    ],
+    "icons": "assets/icons-sweep.svg",
+    "colors": [
+      {
+        "id": "BK",
+        "name": "Negro",
+        "src": "assets/WC31701-BK.svg"
+      },
+      {
+        "id": "GO",
+        "name": "Dorado",
+        "src": "assets/WC31701-GO.svg"
+      },
+      {
+        "id": "SV",
+        "name": "Plateado",
+        "src": "assets/WC31701-SV.svg"
+      },
+      {
+        "id": "WH",
+        "name": "Blanco",
+        "src": "assets/WC31701-WH.svg"
+      }
+    ],
+    "ambient": "assets/T-RP203-final.jpg"
+  }
+]
